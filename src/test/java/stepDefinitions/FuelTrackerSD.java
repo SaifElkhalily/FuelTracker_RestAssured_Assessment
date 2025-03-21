@@ -11,7 +11,7 @@ import utils.ValidationUtils;
 
 import java.io.IOException;
 
-public class CommonSD {
+public class FuelTrackerSD {
     String sessionID;
     Response response;
 
