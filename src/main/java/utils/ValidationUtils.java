@@ -10,8 +10,4 @@ public class ValidationUtils {
     public static void validateResponseBody(String fileName, Response response) throws IOException, JSONException {
         JsonAssert.validateJsonResponses(fileName, response);
     }
-
-    public static void validateResponseBodyKeysOnly(String fileName, Response response) throws IOException, JSONException {
-        JsonAssert.validateJsonResponses(fileName, response);
-    }
 }
