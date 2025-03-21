@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "user_id": 0,
+  "cars": [
+    {
+      "car_id": 101,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2018
+    },
+    {
+      "car_id": 102,
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2019
+    },
+    {
+      "car_id": 201,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2017
+    },
+    {
+      "car_id": 202,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 2020
+    }
+  ]
+}
